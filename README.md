@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CHI-DAI0
-- 👀 I’m interested in ...web
-- 🌱 I’m currently learning ...wrb
+- 👀 I’m interested in ...网络安全
+- 🌱 I’m currently learning ...网络安全
 - 💞️ I’m looking to collaborate on ...CHINA
 - 📫 How to reach me ...on my e-mail
 
